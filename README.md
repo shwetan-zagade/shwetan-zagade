@@ -1,7 +1,8 @@
 ### Hi there, I'm Shwetan 👋 
 
 - 💻 I’m currently working on hacking your account. Haha, just kidding! ;)
-- 🤝🏻 I'm an early IT professional with a bit of experience in  Quality Assurance & Risk Technology. 
+- 👨🏻‍🎓 I'm currently pursuing MSc Information Security from the Royal Holloway University of London. 
+- 🤝🏻I have worked for 1.5 years in the fields of Quality Assurance & Risk Technology. 
 - 📚 I’m currently(always) learning about Cyber/Information Security. Yes! Those are two different things.
 - 🙋🏻‍♂️ I’m looking for help/advices on Penetration Testing, Blue team and in general, cybersec projects.
 - 📫 Feel free to reach out to me on LinkedIn - https://www.linkedin.com/in/shwetanzagade/
