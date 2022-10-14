@@ -1,8 +1,8 @@
 ### Hi there, I'm Shwetan 👋 
 
-- 🔭 I’m currently working on hacking your account. Haha, jk! ;)
-- 🌱 I’m currently(always) learning about Cyber/Information Security. Yes! Those are two different things.
-- 🤔 I’m looking for help/advices on Penetration Testing, Blue team and in general, cybersec projects.
+- 👨🏻‍💻 I’m currently working on hacking your account. Haha, jk! ;)
+- 📚 I’m currently(always) learning about Cyber/Information Security. Yes! Those are two different things.
+- 🙋🏻‍♂️ I’m looking for help/advices on Penetration Testing, Blue team and in general, cybersec projects.
 - 📫 Feel free to reach out to me on LinkedIn - https://www.linkedin.com/in/shwetanzagade/
 - 🧃 Lastly, stay hydrated :D
 
