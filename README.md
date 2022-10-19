@@ -2,7 +2,7 @@
 
 - 💻 I’m currently working on hacking your account. Haha, just kidding! ;)
 - 👨🏻‍🎓 Pursuing MSc Information Security from the Royal Holloway University of London, United Kingdom. 
-- 🤝🏻 Have worked for 1.5 years in the fields of Testing, Audit and Risk. 
+- 🤝🏻 Have worked for 1.5 years in the fields of Testing and Risk. 
 - 📚 Currently(always) learning about Cyber/Information Security. Yes! Those are two different things.
 - 🙋🏻‍♂️ Looking for help/advices on Penetration Testing, Blue team and in general, cybersec projects.
 - 📫 Feel free to reach out to me on LinkedIn - https://www.linkedin.com/in/shwetanzagade/
