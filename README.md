@@ -1,10 +1,8 @@
 ### Hi there, I'm Shwetan 👋 
 
-- 💻 I’m currently working on hacking your account. Haha, just kidding! ;)
-- 👨🏻‍🎓 Pursuing MSc Information Security from the Royal Holloway University of London, United Kingdom. 
-- 🤝🏻 Have worked for 2 years in the fields of Testing, Security and Compliance. 
-- 📚 Currently(always) learning about Cyber/Information Security. Yes! Those are two different things.
-- 🙋🏻‍♂️ Looking for help/advice on Penetration Testing, Blue team and in general, cybersec projects.
+- 💻 I have a keen interest in Threat Intelligence, where I research APTs and emulate how they attack, resulting in a threat-informed defence approach.
+- 👨🏻‍🎓 MSc Information Security graduate from the University of London, United Kingdom. 
+- 📚 Always learning about the latest security trends, vulnerabilities, and tools.
 - 📫 Feel free to reach out to me on LinkedIn - https://www.linkedin.com/in/shwetanzagade/
 - 🧃 Lastly, stay hydrated :D
 
